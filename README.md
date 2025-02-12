@@ -45,7 +45,6 @@ const API_KEY = 'your-api-key-here';
 3. Open index.html in your browser or deploy to a static hosting service.
 
 ## Features
-
 ### Light/Dark Mode
 ### Image Analyse
 ### Professional Health Ai
