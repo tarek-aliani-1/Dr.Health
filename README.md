@@ -1,6 +1,6 @@
-# Dr.Health - Medical Image Analysis Chat
+# Dr.Health - Medical Image-Analysis & Chat
 
-A **Flutter-based web application** for analyzing medical images and providing health-related advice using **Google's Gemini AI API**. This app allows users to upload images (e.g., X-rays, MRI scans, or even fridge contents) and receive AI-generated insights or meal suggestions based on the uploaded content.
+Analyzing medical images and providing health-related advice. This app allows users to upload images (e.g., X-rays, MRI scans, or even fridge contents) and receive AI-generated insights or meal suggestions based on the uploaded content.
 
 ---
 
